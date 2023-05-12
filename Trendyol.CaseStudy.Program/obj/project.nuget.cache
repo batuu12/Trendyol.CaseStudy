@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPvWCi3Ev0UXLIojrpH5UI800p9AHKhPpHKElxIy2X6eC9iu2EpaNCS6MnzZpvISQCARuVl6hJPnYxMnOmxeCg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Program\\Trendyol.CaseStudy.Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Canciba\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\microsoft.playwright\\1.33.0\\microsoft.playwright.1.33.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

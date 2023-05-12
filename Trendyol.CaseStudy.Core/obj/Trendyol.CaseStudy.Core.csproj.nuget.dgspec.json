@@ -1,31 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "/Users/batuhancanci/Desktop/CodeTrainings/Trendyol.CaseStudy/Trendyol.CaseStudy.Core/Trendyol.CaseStudy.Core.csproj": {}
+    "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Core\\Trendyol.CaseStudy.Core.csproj": {}
   },
   "projects": {
-    "/Users/batuhancanci/Desktop/CodeTrainings/Trendyol.CaseStudy/Trendyol.CaseStudy.Core/Trendyol.CaseStudy.Core.csproj": {
+    "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Core\\Trendyol.CaseStudy.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/batuhancanci/Desktop/CodeTrainings/Trendyol.CaseStudy/Trendyol.CaseStudy.Core/Trendyol.CaseStudy.Core.csproj",
+        "projectUniqueName": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Core\\Trendyol.CaseStudy.Core.csproj",
         "projectName": "Trendyol.CaseStudy.Core",
-        "projectPath": "/Users/batuhancanci/Desktop/CodeTrainings/Trendyol.CaseStudy/Trendyol.CaseStudy.Core/Trendyol.CaseStudy.Core.csproj",
-        "packagesPath": "/Users/batuhancanci/.nuget/packages/",
-        "outputPath": "/Users/batuhancanci/Desktop/CodeTrainings/Trendyol.CaseStudy/Trendyol.CaseStudy.Core/obj/",
+        "projectPath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Core\\Trendyol.CaseStudy.Core.csproj",
+        "packagesPath": "C:\\Users\\Canciba\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/batuhancanci/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Canciba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.dormakaba.net/artifactory/api/nuget/pd-emea-tvv-automatix-main-nuget-local": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\Trendyol.CaseStudy.Automation.csproj": {
+                "projectPath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\Trendyol.CaseStudy.Automation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -37,6 +50,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Playwright": {
+              "target": "Package",
+              "version": "[1.33.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +72,75 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\Trendyol.CaseStudy.Automation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\Trendyol.CaseStudy.Automation.csproj",
+        "projectName": "Trendyol.CaseStudy.Automation",
+        "projectPath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\Trendyol.CaseStudy.Automation.csproj",
+        "packagesPath": "C:\\Users\\Canciba\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Canciba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.dormakaba.net/artifactory/api/nuget/pd-emea-tvv-automatix-main-nuget-local": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Playwright": {
+              "target": "Package",
+              "version": "[1.33.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

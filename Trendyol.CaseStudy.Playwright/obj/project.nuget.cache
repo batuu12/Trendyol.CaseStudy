@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "61Xr+EJWPKiXLXlruNuEDuz4pmKH3QP5lT0u0lIpWTiT8+E5oqK4ivd99mMRZW+jCS73nYR+MsopvHMx9JwTXQ==",
+  "dgSpecHash": "oQd40o7odomfy23Bdwfn5n4ywvbwWfCdKWAuRmd8YViyEmTy/eT3pR5+jHKHF66YxbRXqUJY/YoDhL4jp34tPg==",
   "success": true,
-  "projectFilePath": "/Users/batuhancanci/Desktop/CodeTrainings/Trendyol.CaseStudy/Trendyol.CaseStudy.Playwright/Trendyol.CaseStudy.Playwright.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Canciba\\Desktop\\Trendyol.CaseStudy\\Trendyol.CaseStudy.Playwright\\Trendyol.CaseStudy.Automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Canciba\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\microsoft.playwright\\1.33.0\\microsoft.playwright.1.33.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Canciba\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
